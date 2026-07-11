@@ -38,13 +38,13 @@
 	"settings": {
 		"meta-section": {
 			"type": "title",
-			"name": "BetterEdit Settings"
+			"name": "NovaEditor Settings"
 		},
 		"enable-changelog-popup": {
 			"type": "bool",
 			"name": "Show Changelog at Startup",
-			"description": "Show the <cj>Changelog</c> for new updates when starting up BetterEdit. Important updates that everyone should know about might override this behaviour, but if you disable this, you at least won't get changelogs for every single new Alpha version :) You can still always view the Changelog through the <cg>BetterEdit popup</c> in the <cj>Editor Pause Menu</c>",
-			"default": true
+			"description": "Show the <cj>Changelog</c> for new updates when starting up NovaEdit. Important updates that everyone should know about might override this behaviour, but if you disable this, you at least won't get changelogs for every single new Alpha version :) You can still always view the Changelog through the <cg>BetterEdit popup</c> in the <cj>Editor Pause Menu</c>",
+			"default": false
 		},
 		"level-section": {
 			"type": "title",
