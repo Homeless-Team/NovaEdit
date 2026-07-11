@@ -1,69 +1,88 @@
-# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> BetterEdit</span>
+# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> NovaEdit</span>
 
-> [!WARNING]
-> **BetterEdit is no longer being developed!** I have [retired from GD modding](https://hjfod.github.io/blog/so-long-and-thanks-for-all-the-fish.html). I'd recommend using alternatives like [Tinker](https://geode-sdk.org/mods/alphalaneous.tinker) instead. Thank you for the years of love and support <3
+> [!NOTE]
+> **NovaEdit is a private Geometry Dash editor enhancement mod developed by Homeless Team.**
+>
+> NovaEdit is based on **BetterEdit by HJfod** and aims to maintain compatibility with future Geometry Dash updates while improving the editor experience with new tools and features.
+>
+> NovaEdit is **not an official continuation of BetterEdit**.
 
 <span>
-  <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/HJfod/BetterEdit?label=license&style=flat-square" /></a>
-  &ensp;&macr;&ensp;
-  <a href="https://github.com/HJfod/BetterEdit/issues"><img alt="GitHub Issues - Open" src="https://img.shields.io/github/issues/HJfod/BetterEdit?style=flat-square" /></a>
-  <a href="https://github.com/HJfod/BetterEdit/issues"><img alt="GitHub Issues - Closed" src="https://img.shields.io/github/issues-closed/HJfod/BetterEdit?style=flat-square" /></a>
-  &ensp;&macr;&ensp;
-  <a href="https://github.com/HJfod/BetterEdit/pulls"><img alt="GitHub Pull Requests - Open" src="https://img.shields.io/github/issues-pr/HJfod/BetterEdit?style=flat-square" /></a>
-  <a href="https://github.com/HJfod/BetterEdit/pulls"><img alt="GitHub Pull Requests - Closed" src="https://img.shields.io/github/issues-pr-closed/HJfod/BetterEdit?style=flat-square" /></a>
-  &ensp;&macr;&ensp;
-  <a href="https://github.com/HJfod/BetterEdit/actions/workflows/build.yml"><img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/HJFod/BetterEdit/build.yml?style=flat-square" /></a>
+  <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/Homeless-Team/NovaEdit?label=license&style=flat-square" /></a>
 </span>
 
 <br>
 
-A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> editor, well, <i>better</i>.
+A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> editor easier, faster, and more powerful.
 
 ## :rocket: Installation
 
-You can install BetterEdit through [Geode](https://geode-sdk.org). After installing Geode, simply search for the mod on the in-game browser, and click install.
+NovaEdit is currently a private project and is not publicly available.
 
-**BetterEdit needs the following mods to also be installed:**
+Installation builds are only provided to members of the Homeless Team.
 
- * [NodeIDs](https://geode-sdk.org/mods/geode.node-ids)
- * [GMD API](https://geode-sdk.org/mods/hjfod.gmd-api)
- * [Level ID API](https://geode-sdk.org/mods/cvolton.level-id-api)
- * [Editor Tab API](https://geode-sdk.org/mods/alphalaneous.editortab_api)
+## :sparkles: Features
 
-## :beetle: Bug reports & feature suggestions
+NovaEdit improves the Geometry Dash editor workflow with additional tools and quality-of-life improvements.
 
-You can use [Issues](https://github.com/HJfod/BetterEdit/issues) to report bugs and suggest new features! Click [here](https://github.com/HJfod/BetterEdit/issues/new/choose) to open up a new issue.
+Features may include:
 
-Please use the correct templates for your issue - badly formatted issues will be closed.
+- Improved level creation workflow
+- Additional editor utilities
+- Better editing experience
+- Compatibility updates for future Geometry Dash versions
+- Custom tools developed by Homeless Team
 
-| Issue template name | What it's for |
-| ------------------- | ------------- |
-| Bug Report          | Reporting a bug with the mod, such as some feature not working as expected, some buttons being misplaced, etc. |
-| Crash Report        | Reporting a crash with the mod (i.e. when the game closes unexpectedly) |
-| Suggestion          | Suggesting a new feature to be added to the mod / changes to an existing feature |
+## :wrench: Development
 
-## :speech_balloon: Contact
+NovaEdit is developed using:
 
-BetterEdit has a [Discord server](https://discord.gg/rPvFW4jQTJ); this is where you can go if you need any further information, wish to ask questions, or anything else!
+- C++
+- Geode SDK
+- Geometry Dash modding APIs
 
-[<img alt="BetterEdit Discord Server Banner" src="https://discordapp.com/api/guilds/1087452688956006471/widget.png?style=banner2" />](https://discord.gg/rPvFW4jQTJ)
+The project focuses on maintaining a clean and extendable editor enhancement system.
 
-You can also contact the developer of the mod (HJfod) directly through Discord or Twitter/X.
+## :beetle: Bug Reports & Suggestions
 
- * Discord: `@hjfod`
- * Twitter: [`hjfod`](https://twitter.com/hjfod)
+NovaEdit is currently a private project.
 
-## :euro: Support
+Homeless Team members can report bugs and suggest features through internal team channels.
 
-BetterEdit's development is supported via [donations on my Ko-fi](https://ko-fi.com/hjfod)!
+## :speech_balloon: Credits
 
-> [!NOTE]
-> Supporters used to receive exclusive features, however these features have since been made free. You may still support if you want to say thanks for my work on BetterEdit and Geode, but please be aware that this will NOT come with any exclusive features anymore!
+NovaEdit is based on **BetterEdit by HJfod**.
 
-## :balance_scale: Licensing
+Original projects:
 
-**BetterEdit is licensed under the [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.en.html) license.**
+- BetterEdit — HJfod
+- Geode — Geode Team
 
-This means **you cannot create closed-source versions of BetterEdit**. You, however, *can* create separate closed-source mods that depend on BetterEdit.
+Special thanks to HJfod for creating BetterEdit and contributing greatly to the Geometry Dash modding community.
 
-This is to ensure that nobody piggybacks off the hundreds of hours of work spent by myself and other developers, without providing proper credit in the form of the free version! :blush:
+## :page_facing_up: Licensing
+
+NovaEdit contains modified code from BetterEdit.
+
+### Original BetterEdit Code
+
+- License: GNU Lesser General Public License v3.0 (LGPLv3)
+- Author: HJfod
+
+All original license notices and credits are preserved.
+
+### Homeless Team Code
+
+Additional code, features, and modifications created by Homeless Team are licensed under the **Homeless Team EULA**.
+
+Both licenses apply to their respective parts of the project.
+
+## :warning: Disclaimer
+
+NovaEdit is a private fork created for development and maintenance purposes.
+
+It is not affiliated with or endorsed by HJfod.
+
+BetterEdit remains the original work and legacy of HJfod.
+
+Thank you to everyone who contributed to the Geometry Dash modding community.
