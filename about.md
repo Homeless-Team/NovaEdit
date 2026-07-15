@@ -1,66 +1,71 @@
-# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> NovaEdit</span>
+# NovaEdit
 
-> [!NOTE]
-> **NovaEdit is a private Geometry Dash editor enhancement mod developed by Homeless Team.**
+The ultimate editor enhancement mod for Geometry Dash.
+
+> NovaEdit is a private Geometry Dash editor enhancement mod developed by **Homeless Team**.
 >
-> NovaEdit is based on **BetterEdit by HJfod** and aims to maintain compatibility with future Geometry Dash updates while improving the editor experience with new tools and features.
+> It is based on **BetterEdit** by **HJfod** and focuses on maintaining compatibility with newer versions of Geometry Dash and Geode.
 >
 > NovaEdit is **not an official continuation of BetterEdit**.
 
-<span>
-  <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/Homeless-Team/NovaEdit?label=license&style=flat-square" /></a>
-</span>
+---
 
-<br>
-
-A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> editor easier, faster, and more powerful.
-
-## :rocket: Installation
+## Installation
 
 NovaEdit is currently a private project and is not publicly available.
 
-Installation builds are only provided to members of the Homeless Team.
+Builds are only distributed to members of the Homeless Team.
 
-## :sparkles: Features
+---
 
-NovaEdit improves the Geometry Dash editor workflow with additional tools and quality-of-life improvements.
+## Features
 
-Features may include:
+NovaEdit improves the Geometry Dash editor with quality-of-life improvements and compatibility updates.
 
-- Improved level creation workflow
+Current goals include:
+
+- Improved editor workflow
 - Additional editor utilities
 - Better editing experience
-- Compatibility updates for future Geometry Dash versions
-- Custom tools developed by Homeless Team
+- Compatibility with newer Geometry Dash versions
+- Bug fixes and maintenance
 
-## :wrench: Development
+---
+
+## Development
 
 NovaEdit is developed using:
 
 - C++
 - Geode SDK
-- Geometry Dash modding APIs
+- Geometry Dash Modding APIs
 
-The project focuses on maintaining a clean and extendable editor enhancement system.
+The project focuses on maintaining a clean and stable editor enhancement system.
 
-## :beetle: Bug Reports & Suggestions
+---
+
+## Bug Reports
 
 NovaEdit is currently a private project.
 
-Homeless Team members can report bugs and suggest features through internal team channels.
+Homeless Team members can report bugs and suggestions through internal team channels.
 
-## :speech_balloon: Credits
+---
 
-NovaEdit is based on **BetterEdit by HJfod**.
+## Credits
+
+NovaEdit is based on **BetterEdit** by **HJfod**.
 
 Original projects:
 
 - BetterEdit — HJfod
 - Geode — Geode Team
 
-Special thanks to HJfod for creating BetterEdit and contributing greatly to the Geometry Dash modding community.
+Special thanks to HJfod for creating BetterEdit and for the contributions made to the Geometry Dash modding community.
 
-## :page_facing_up: Licensing
+---
+
+## Licensing
 
 NovaEdit contains modified code from BetterEdit.
 
@@ -69,20 +74,20 @@ NovaEdit contains modified code from BetterEdit.
 - License: GNU Lesser General Public License v3.0 (LGPLv3)
 - Author: HJfod
 
-All original license notices and credits are preserved.
+Original license notices and credits are preserved.
 
 ### Homeless Team Code
 
-Additional code, features, and modifications created by Homeless Team are licensed under the **Homeless Team EULA**.
+Additional modifications created by Homeless Team are licensed under the **Homeless Team EULA**.
 
-Both licenses apply to their respective parts of the project.
+Each part of the project is distributed under its respective license.
 
-## :warning: Disclaimer
+---
 
-NovaEdit is a private fork created for development and maintenance purposes.
+## Disclaimer
 
-It is not affiliated with or endorsed by HJfod.
+NovaEdit is a private fork created for maintenance and development purposes.
 
-BetterEdit remains the original work and legacy of HJfod.
+It is **not affiliated with or endorsed by HJfod**.
 
-Thank you to everyone who contributed to the Geometry Dash modding community.
+BetterEdit remains the original work of HJfod.
