@@ -1,4 +1,4 @@
-# BetterEdit 6
+# Nova Edit v1
 
 ## v6.10.0
  * Scrap the WIP features as they were never going to be finished :(
