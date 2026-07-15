@@ -1,21 +1,88 @@
-# <c-11f917>B</c><c-12f534>e</c><c-13f348>t</c><c-14f155>t</c><c-14ef67>e</c><c-15ed76>r</c>Edit
+# <span style="display: flex; align-items: center; gap: .25em"><img src="logo.png" width="50"> NovaEdit</span>
 
-The ultimate editor improvement mod. Adds a ton of <cp>utilities</c> and <cj>improvements</c> to the level editor, such as <cd>redesigned menus</c>, <cp>bug fixes</c>, <ca>keybinds</c>, and more!
+> [!NOTE]
+> **NovaEdit is a private Geometry Dash editor enhancement mod developed by Homeless Team.**
+>
+> NovaEdit is based on **BetterEdit by HJfod** and aims to maintain compatibility with future Geometry Dash updates while improving the editor experience with new tools and features.
+>
+> NovaEdit is **not an official continuation of BetterEdit**.
 
-## <cg>Features</c>
+<span>
+  <a href="LICENSE"><img alt="License Badge" src="https://img.shields.io/github/license/Homeless-Team/NovaEdit?label=license&style=flat-square" /></a>
+</span>
 
- * Better color selection menu
- * Better font selection menu
- * Better movement menu
- * View tab for quickly toggling on/off visuals
- * Scroll wheel improvements
- * Custom Grid sizes
- * Set offset for Group IDs in Next Free
- * Pinch to zoom on mobile
- * Custom UI scaling
- * Fully customizable editor keybinds
- * And lots, lots more!
+<br>
 
-## <ca>Restoring Old Backups</c>
+A mod that makes the <a href="https://store.steampowered.com/app/322170/Geometry_Dash/">Geometry Dash</a> editor easier, faster, and more powerful.
 
-Pre-2.206 versions of BetterEdit relied on the now-defunct BetterSave mod to create backups for levels. If you have backups from this time you'd like to restore, locate the old backups at `<GD Save Directory>/levels/<level-string-id>/backups`, and then move them to `<GD Save Directory>/betteredit-level-backups/<level-numeric-id>/backups`. The string ID (`<level-string-id>`) of a level is likely very close to its name except converted to kebab-case, and `<level-numeric-id>` can be seen in-game in the created levels list by enabling the `Show IDs in Search` option from the `Editor Level ID API` mod.
+## :rocket: Installation
+
+NovaEdit is currently a private project and is not publicly available.
+
+Installation builds are only provided to members of the Homeless Team.
+
+## :sparkles: Features
+
+NovaEdit improves the Geometry Dash editor workflow with additional tools and quality-of-life improvements.
+
+Features may include:
+
+- Improved level creation workflow
+- Additional editor utilities
+- Better editing experience
+- Compatibility updates for future Geometry Dash versions
+- Custom tools developed by Homeless Team
+
+## :wrench: Development
+
+NovaEdit is developed using:
+
+- C++
+- Geode SDK
+- Geometry Dash modding APIs
+
+The project focuses on maintaining a clean and extendable editor enhancement system.
+
+## :beetle: Bug Reports & Suggestions
+
+NovaEdit is currently a private project.
+
+Homeless Team members can report bugs and suggest features through internal team channels.
+
+## :speech_balloon: Credits
+
+NovaEdit is based on **BetterEdit by HJfod**.
+
+Original projects:
+
+- BetterEdit — HJfod
+- Geode — Geode Team
+
+Special thanks to HJfod for creating BetterEdit and contributing greatly to the Geometry Dash modding community.
+
+## :page_facing_up: Licensing
+
+NovaEdit contains modified code from BetterEdit.
+
+### Original BetterEdit Code
+
+- License: GNU Lesser General Public License v3.0 (LGPLv3)
+- Author: HJfod
+
+All original license notices and credits are preserved.
+
+### Homeless Team Code
+
+Additional code, features, and modifications created by Homeless Team are licensed under the **Homeless Team EULA**.
+
+Both licenses apply to their respective parts of the project.
+
+## :warning: Disclaimer
+
+NovaEdit is a private fork created for development and maintenance purposes.
+
+It is not affiliated with or endorsed by HJfod.
+
+BetterEdit remains the original work and legacy of HJfod.
+
+Thank you to everyone who contributed to the Geometry Dash modding community.
